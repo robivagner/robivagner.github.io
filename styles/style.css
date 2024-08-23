@@ -1,7 +1,7 @@
 html {
   font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high */
   font-family: "Matemasie", sans-serif; /* this should be the rest of the output you got from Google Fonts */
-  background-color: #252525;
+  background-color: #ff0000;
 }
 
 body {
@@ -31,7 +31,7 @@ li {
 img {
   display: block;
   margin: 0 auto;
-  width: 200px;
-  height: 200px;
+  width: 600px;
+  height: 400px;
 }
 
